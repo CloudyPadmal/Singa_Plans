@@ -23,5 +23,6 @@ Milestones I should achieve during my stay in Singapore!
     - [ ] Chapter 18
     - [ ] Chapter 19
 - [ ] Learn Vue.js and Ember.js
+- [ ] Learn Node.js
 - [ ] Learn Machine Learning
 - [ ] Encryption Ideas
