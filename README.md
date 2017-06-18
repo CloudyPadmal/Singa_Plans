@@ -2,7 +2,7 @@
 Milestones I should achieve during my stay in Singapore!
 
 - [ ] Get a PSLab Device
-- [ ] Learn Tamil
+- [ ] Learn Tamil Language
     - [ ] Chapter 1
     - [ ] Chapter 2
     - [ ] Chapter 3
