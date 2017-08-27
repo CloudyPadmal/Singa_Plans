@@ -1,7 +1,7 @@
 # Singa Plans
 Milestones I should achieve during my stay in Singapore!
 
-- [ ] Get a PSLab Device
+- [x] Get a PSLab Device
 - [ ] Learn Tamil Language
     - [ ] Chapter 1
     - [ ] Chapter 2
@@ -24,6 +24,6 @@ Milestones I should achieve during my stay in Singapore!
     - [ ] Chapter 19
 - [ ] Learn Vue.js and Ember.js
 - [ ] Learn Node.js
-- [ ] Create skill for `Alexa`
+- [x] Create skill for `Alexa`
 - [ ] Learn Machine Learning
 - [ ] Encryption Ideas
